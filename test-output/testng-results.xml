@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23593" started-at="2020-07-15T05:32:12Z" finished-at="2020-07-15T05:32:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23593" started-at="2020-07-15T05:32:12Z" finished-at="2020-07-15T05:32:36Z">
+      <class name="Jenkintest.NewTest$Login_Test">
+        <test-method status="PASS" signature="luanchApplication()[pri:0, instance:Jenkintest.NewTest$Login_Test@161b062a]" name="luanchApplication" is-config="true" duration-ms="13014" started-at="2020-07-15T05:32:12Z" finished-at="2020-07-15T05:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- luanchApplication -->
+        <test-method status="PASS" signature="login()[pri:1, instance:Jenkintest.NewTest$Login_Test@161b062a]" name="login" duration-ms="4464" started-at="2020-07-15T05:32:25Z" finished-at="2020-07-15T05:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="clickLogout()[pri:2, instance:Jenkintest.NewTest$Login_Test@161b062a]" name="clickLogout" duration-ms="1579" started-at="2020-07-15T05:32:30Z" finished-at="2020-07-15T05:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogout -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:Jenkintest.NewTest$Login_Test@161b062a]" name="closeApplication" is-config="true" duration-ms="4487" started-at="2020-07-15T05:32:31Z" finished-at="2020-07-15T05:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- Jenkintest.NewTest$Login_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
